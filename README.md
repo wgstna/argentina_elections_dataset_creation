@@ -40,6 +40,6 @@ jupyter notebook election_dataset_creation.ipynb
 ```
 The notebook contains all the steps for data compilation and can be executed to reproduce the dataset.​
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.​
